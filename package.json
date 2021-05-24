@@ -1,0 +1,26 @@
+{
+  "name": "bad-apple-canvas-text",
+  "description": "Playing bad-apple with canvas and text.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Robby",
+    "email": "ta7382@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/explooosion/bad-apple-canvas-texte.git"
+  },
+  "bugs": {
+    "url": "https://github.com/explooosion/bad-apple-canvas-text/issues"
+  },
+  "scripts": {
+    "start": "http-server -c-1 ."
+  },
+  "keywords": [
+    "bad apple",
+    "canvas"
+  ],
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
