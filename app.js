@@ -9,6 +9,7 @@ function App() {
   const txtEl = document.createElement('div');
 
   const scale = 1;
+  let timer = null;
 
   app.style.fontFamily = 'SimSun, serif';
   app.style.fontSize = '12px';
